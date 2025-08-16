@@ -1,5 +1,5 @@
-# 💊 RxSaathi – Symptom & Prescription Assistant (RAG-powered) 
-### 👨‍💻 **Author:** *Vivek Yadav – FullStack Developer (AI/ML)*  
+# RxSaathi – Symptom & Prescription Assistant (RAG-powered) 
+### **Author:** *Vivek Yadav – FullStack Developer (AI/ML)*  
 **Technologies:** *Python, FastAPI, ReactJS, RAG, LangChan, OpenAI, HuggingFace*  
 
 
