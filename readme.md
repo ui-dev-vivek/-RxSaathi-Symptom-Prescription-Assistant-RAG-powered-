@@ -1,4 +1,8 @@
-# 💊 RxSaathi – Symptom & Prescription Assistant (RAG-powered)
+# 💊 RxSaathi – Symptom & Prescription Assistant (RAG-powered) 
+### 👨‍💻 **Author:** *Vivek Yadav – FullStack Developer (AI/ML)*  
+**Technologies:** *Python, FastAPI, ReactJS, RAG, LangChan, OpenAI, HuggingFace*  
+
+
 
 ---
 
@@ -6,7 +10,7 @@
 
 **RxSaathi** is an **AI-powered chatbot** that helps users understand medical symptoms in simple language and provides **educational insights** about medicines and prescriptions using **RAG (Retrieval-Augmented Generation)**.  
 
-⚠️ **Disclaimer:** This app is **not a medical device**. It does **not prescribe** or diagnose. It only summarizes trusted medical information. Always consult a **licensed doctor** for actual treatment.  
+⚠️ **Disclaimer:** This app is **not a medical device**. It does **not prescribe** or diagnose. It only summarizes trusted medical information. Always consult a licensed doctor for proper treatment.  
 
 👨‍💻 **Author:** *Vivek Yadav – FullStack Developer (AI/ML)*  
 
@@ -16,7 +20,7 @@
 
 - 🩺 **Symptom Explainer** – User-friendly explanation of symptoms  
 - 📚 **RAG-powered Prescription Info** – Retrieves medicine details (vector embeddings)  
-- 🔐 **SSO Authentication** – Secure login via OAuth (Google/GitHub)  
+- 🔐 **Chat GPT's Open Source Model SSO   
 - 🤖 **LangChain + OpenAI** – Smart conversational AI pipeline  
 - 🧾 **Citations & Sources** – All answers come with references  
 - 🚨 **Safety Guardrails** – No prescriptions, triage alerts for emergencies  
@@ -30,7 +34,7 @@
 | 🎨 Frontend  | React + Vite, Tailwind/Chakra (optional UI lib) |
 | ⚡ Backend   | Python FastAPI, Uvicorn, Pydantic |
 | 🧠 AI / RAG  | LangChain, OpenAI API (Chat + Embeddings) |
-| 📦 Vector DB | FAISS / Chroma (Dev) • PGVector (Prod) |
+| 📦 Vector DB | Chroma (Dev) • PGVector (Prod) |
 | 🔑 Auth      | OAuth (Google/GitHub) + JWT |
 | 🗄️ Storage   | PostgreSQL (users, chat logs, metadata) |
 
